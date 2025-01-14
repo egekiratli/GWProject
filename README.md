@@ -1,0 +1,2 @@
+- - gwpop.ipynb contains a population inference for mass distribution. I've written 4 models (Truncated, Power+Peak, Broken Power Law and Multi-Peak) used in GWTC-2 and compared my version of the models with built-in GWPopulation models. I've also compared my results for hyper-parameters with GWTC-3 results.
+- - parameter-estimation.ipynb contains a low dimensional parameter estimation for GW150914.
